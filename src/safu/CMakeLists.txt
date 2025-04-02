@@ -13,6 +13,7 @@ add_library(
   safu SHARED
   private/common.c
   private/vector.c
+  private/path.c
   private/json.c
   private/time.c
   private/log.c
